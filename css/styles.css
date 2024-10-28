@@ -90,6 +90,11 @@
     scroll-behavior: smooth;
   }
 }
+/* Add this CSS to your styles.css file */
+#muratkoca {
+  background-color: #8686864b; /* Light gray */
+  padding: 40px 0; /* Add some padding for better spacing */
+}
 
 .card-img-container {
   height: 200px; /* Set a fixed height for the image container */
